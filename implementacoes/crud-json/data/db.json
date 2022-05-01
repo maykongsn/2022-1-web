@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "name": "Maykon",
+      "course": "SI",
+      "ira": "8",
+      "id": 0
+    },
+    {
+      "name": "Fulano",
+      "course": "SI",
+      "ira": 8.1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Beltrano",
+      "course": "SI",
+      "ira": 9.5
+    },
+    {
+      "name": "Marllon",
+      "course": "CC",
+      "ira": "9",
+      "id": 3
+    },
+    {
+      "name": "Percival",
+      "course": "DD",
+      "ira": "8.1",
+      "id": 4
+    }
+  ],
+  "professors": [
+    {
+      "id": 0,
+      "name": "Jefferson",
+      "university": "UFC",
+      "degree": "Doutor"
+    },
+    {
+      "id": 1,
+      "name": "Roberto",
+      "university": "UFC",
+      "degree": "Mestre"
+    },
+    {
+      "name": "Diana Braga",
+      "university": "UFC",
+      "degree": "Mestre",
+      "id": 2
+    }
+  ]
+}
